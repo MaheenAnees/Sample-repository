@@ -27,7 +27,7 @@ https://www.youtube.com/playlist?list=PLMtDE6PfhEO7V0w16MwKFzBdHd1cbgkPK
 - __Polymorphism__:
 - __Design Patterns__:
   - Singleton:
-      -- jvdh
+      
 - __Menu with Buttons__:
   - Start Screen with new game and quit button.
   - End screen with play again button.
