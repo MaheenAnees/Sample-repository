@@ -50,9 +50,5 @@ __Maheen Anees__:
   
 __Muhammad Salman Abid__:
   - Salman worked on the Character class as well as player and enemy class inheriting from it. 
-__Sara Mahmood__:
-  - She 
-__Uzair Khoso__:
-  - He 
 
 ## Acknowledgments
