@@ -22,6 +22,8 @@ Habib University is attacked by some enemies on a Saturday afternoon. You are re
 ### Project Playlist Link:
 https://www.youtube.com/playlist?list=PLMtDE6PfhEO7V0w16MwKFzBdHd1cbgkPK
 
+### Total time spent:
+
 ## Requirements
 ### Technical Requirements
 - __Polymorphism__:
@@ -49,6 +51,8 @@ __Maheen Anees__:
 __Muhammad Salman Abid__:
   - Salman worked on the Character class as well as player and enemy class inheriting from it. 
 __Sara Mahmood__:
+  - She 
 __Uzair Khoso__:
+  - He 
 
 ## Acknowledgments
