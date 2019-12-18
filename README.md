@@ -1,56 +1,34 @@
 # The Working Saturday
 
-### CS 224 Object Oriented Programming and Design Methodologies: Final Project
+## CS 224 Object Oriented Programming and Design Methodologies: Final Project
 
-## Game Description
+## Team Members
 
-For this homework, you should know the following.
+- Maheen Anees (Group Leader)
+- Muhammad Salman Abid
+- Sara Mahmood
+- Uzair Khoso
 
-- UML 2.0
-- any image editing software
-- writing a header file in C++
+## About
 
-## Game Controls
+### Game Description:
+Habib University is attacked by some enemies on a Saturday afternoon. You are required to save the university by defeating all the enemies located at Central Street and the Fire Courtyard. 
 
-You have to design a game with the following requirements
+### Game Controls:
+- Arrow key for moving the player in four directions.
+- Press P for pause and unpause.
+- Press A to attack the enemy.
 
-### Thematic Requirements:
-- The game should be set in the context of Habib University.
-- The game should be interactive.
+### Project Playlist Link
+https://www.youtube.com/playlist?list=PLMtDE6PfhEO7V0w16MwKFzBdHd1cbgkPK
 
-### Technical Requirements:
-- The game will be developed in SDL 2.0.
-- The game code must incorporate polymorphism.
-- Each member should develop 5 to 6 classes. The team lead should have a slightly lower load.
-- The game code should use at least 4 design patterns.
-- The game code should contain at least one menu with buttons.
-- The game code should have some mechanism through file I/O to share information between different runs.
-- The game code should use operator overloading.
-
-## Submission
-
-NOTE: Follow your section instructor's guideline on submission and deadline.
-
-Generally, the __team lead__ must submit:
-
-- A class diagram of your game code drawn using any available tool, e.g. https://www.umlet.com/.
-    - The diagram must be valid UML 2.0 and must show all class relations.
-    - It must incorporate the requirements stated above.
-    - It must be color coded to indicate the division of work among team members and must include a legend.
-- 3 screens related to the game.
-    - Start of Game
-    - End of Game
-    - Game play (in-game)
-- A road map of game progress with milestones and their dates clearly marked.
-- C++ header files according to the submitted UML.
-- A project information file in text format that includes
-    - The name of the game
-    - The names of the team members including the team lead
-    - A number for each team member including the team lead that indicates the member's relative contribution to this submission. The numbers must add up to 100.
-
-_Deadline_: as communicated by your section instructor.
-
-## Grading
-
-The grading rubric for this assignment is given in `rubric.csv`.
+## Requirements
+### Technical Requirements
+- _Polymorphism_:
+    -
+-_Design Patterns_:
+    -
+- _Menu with Buttons_:
+- _File I/O_:
+- _Operator Overloading_:
 
