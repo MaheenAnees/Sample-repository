@@ -1,6 +1,6 @@
 # The Working Saturday
 
-# CS 224 Object Oriented Programming and Design Methodologies: Final Project
+### CS 224 Object Oriented Programming and Design Methodologies: Final Project
 
 ## Game Description
 
