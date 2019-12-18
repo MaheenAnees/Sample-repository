@@ -25,7 +25,7 @@ https://www.youtube.com/playlist?list=PLMtDE6PfhEO7V0w16MwKFzBdHd1cbgkPK
 ## Requirements
 ### Technical Requirements
 - __Polymorphism__:
--__Design Patterns__:
+- __Design Patterns__:
 - __Menu with Buttons__:
 - __File I/O__:
 - __Operator Overloading__:
